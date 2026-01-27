@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ZXAppsBackend.Api/ZXAppsBackend.Api.csproj" />
+  <Project Path="ZXAppsBackend.Application/ZXAppsBackend.Application.csproj" />
+  <Project Path="ZXAppsBackend.Domain/ZXAppsBackend.Domain.csproj" />
+  <Project Path="ZXAppsBackend.Infrastructure/ZXAppsBackend.Infrastructure.csproj" />
+  <Project Path="ZXAppsBackend.Tests/ZXAppsBackend.Tests.csproj" />
+</Solution>

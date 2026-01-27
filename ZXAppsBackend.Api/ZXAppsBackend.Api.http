@@ -1,0 +1,6 @@
+@ZXAppsBackend.Api_HostAddress = http://localhost:5157
+
+GET {{ZXAppsBackend.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
